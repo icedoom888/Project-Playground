@@ -1,0 +1,313 @@
+{
+    "angles" : [
+        161.3686921285515,
+        24.258800982547985,
+        0.33619456603985687
+    ],
+    "landmarks" : {
+        "MouthInner_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowMiddle_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "Ridge2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeUpperOuter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_down_1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_corner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "BaseLeft" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowMiddle_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowOuter_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowMiddle_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "BaseCenterRight" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeLowerOuter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "AlaLeft2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_down_2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeInnerEyeCorner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "BaseCenter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeLowerOuter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthInner_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeOuterEyeCorner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowInner_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft4" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_philtrum" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_down_1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowOuter_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight7" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthInner_up_right" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeLowerInner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowMiddle_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_down_2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowInner_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft6" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight6" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_up_2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyePupil" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeUpperOuter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft7" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "ChinCenter" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowInner_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeUpperInner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_corner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowInner_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "BaseCenterLeft" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight4" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthInner_down_right" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft5" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "AlaRight2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_philtrum" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_up_2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "Ridge1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "AlaLeft1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "AlaRight1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight5" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthInner_up_left" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeLowerInner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeUpperInner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekRight3" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthLeft_up_1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RidgeRoot" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RidgeTip" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyeOuterEyeCorner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftBrowOuter_down" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightEyeInnerEyeCorner" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthCenter_philtrum" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthInner_down_left" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "RightBrowOuter_up" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "LeftEyePupil" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft2" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthCenter_lower" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "BaseRight" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "MouthRight_up_1" : {
+            "x" : -100,
+            "y" : -100
+        },
+        "CheekLeft3" : {
+            "x" : -100,
+            "y" : -100
+        }
+    }
+}
